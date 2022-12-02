@@ -26,3 +26,11 @@ Technology Stack
  FRONT END: HTML, CSS, JAVASCRIPT
 VALIDATION:
  1. basic email validation should be performe
+ NON-Functional Requirenments:
+ performance:
+ 1. Active cases < 5 sec
+ 2. Conformed cases < 5 sec
+ 3.Death cases < 5sec
+ 4.Recovered cases < 5 sec
+ 
+  
