@@ -27,10 +27,20 @@ Technology Stack
 VALIDATION:
  1. basic email validation should be performe
  NON-Functional Requirenments:
- performance:
+ Security 
+ ● WEBSITE PLATFORM –User Name/Password-Based Credentials
+ ● Sensitive data has to be categorized and stored in a secure manner
+ ● Secure connection for transmission of any data 
+
+ Performance:
  1. Active cases < 5 sec
  2. Conformed cases < 5 sec
  3.Death cases < 5sec
  4.Recovered cases < 5 sec
+ OUTPUT/POST CONDITION:
+ 1. WE WILL GET THE PERCENCTAGE OF PEOPLE AFFECTED BY COVID
+ 2.TRACK THE AREA MOSTLY AFFECTED BY COVID 19
+ 3.OXYGEN CYLINDER, MEDICAL FACILITIES,FOOD SERVICES DATA AVAILABILITY 
+
  
   
