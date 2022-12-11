@@ -22,21 +22,25 @@ and delivers contents of states.
 16. percentage of the people immigrated to the hometown\cities\countries.
 17.Rate of mental health of the people
 18.Demand and scarcity of food (pie chart)
-Technology Stack 
+
+Technology Stack :
  FRONT END: HTML, CSS, JAVASCRIPT
+ 
 VALIDATION:
- 1. basic email validation should be performe
+ 1. Basic email validation should be performed
+
  NON-Functional Requirenments:
  Security 
- ● WEBSITE PLATFORM –User Name/Password-Based Credentials
- ● Sensitive data has to be categorized and stored in a secure manner
- ● Secure connection for transmission of any data 
+ 2. WEBSITE PLATFORM –User Name/Password-Based Credentials
+ 3. Sensitive data has to be categorized and stored in a secure manner
+ 4. Secure connection for transmission of any data 
 
  Performance:
  1. Active cases < 5 sec
  2. Conformed cases < 5 sec
  3.Death cases < 5sec
  4.Recovered cases < 5 sec
+ 
  OUTPUT/POST CONDITION:
  1. WE WILL GET THE PERCENCTAGE OF PEOPLE AFFECTED BY COVID
  2.TRACK THE AREA MOSTLY AFFECTED BY COVID 19
